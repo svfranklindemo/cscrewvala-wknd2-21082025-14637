@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/cscrewvala-cscrewvala-2025-8-21-11-45-23/language-masters/en:/",
+    "/content/cscrewvala-cscrewvala-2025-8-21-11-45-23/language-masters/en/:/",
+    "/content/cscrewvala-cscrewvala-2025-8-21-11-45-23/language-masters/en/:/en/",
+    "/content/cscrewvala-cscrewvala-2025-8-21-11-45-23/configuration:/.helix/config.json",
+    "/content/cscrewvala-cscrewvala-2025-8-21-11-45-23/metadata:/metadata.json",
+    "/content/cscrewvala-cscrewvala-2025-8-21-11-45-23/redirects:/redirects.json",
+    "/content/cscrewvala-cscrewvala-2025-8-21-11-45-23/placeholders:/placeholders.json",
+    "/content/cscrewvala-cscrewvala-2025-8-21-11-45-23.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/cscrewvala-cscrewvala-2025-8-21-11-45-23/",
+    "/content/dam/cscrewvala-cscrewvala-2025-8-21-11-45-23/"
   ]
 }
